@@ -1,0 +1,17 @@
+{
+    "name": "piecrust-php/umbrella",
+    "description": "Load piecrust-php with plugins",
+    "type": "metapackage",
+    "homepage": "https://github.com/piecrust-php/umbrella/",
+    "require": {
+        "piecrust-php/piecrust": "dev-master"
+    },
+    "license": "BSD3",
+    "authors": [
+        {
+            "name": "Mike Würfel",
+            "email": "news@young-workers.de"
+        }
+    ],
+    "minimum-stability": "dev"
+}
